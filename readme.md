@@ -24,6 +24,11 @@ $ php artisan serve
 
 Now, open your web browser and got `http://localhost:8000` . Enjoy :D
 
+## Screenshots
+
+| ![](screenshots/1.png?raw=true) | ![](screenshots/2.png?raw=true) |
+|-----|-----|
+
 ## Contact
 
 You can contact me at the emaill [andhika@yuana.id](mailto:andhika@yuana.id)
