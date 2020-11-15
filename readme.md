@@ -26,7 +26,11 @@ Now, open your web browser and got `http://localhost:8000` . Enjoy :D
 
 ## Contact
 
-You can contact me at the emaill or [fb](https://www.facebook.com/yuana.andhika)
+You can contact me at the emaill [andhika@yuana.id](mailto:andhika@yuana.id)
+
+## Donation
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T02OS5W)
 
 ## Contributing
 
